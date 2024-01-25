@@ -1,0 +1,3 @@
+git commands
+git status
+git init
